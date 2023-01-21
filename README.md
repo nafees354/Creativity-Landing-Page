@@ -1,4 +1,4 @@
-# Dance-Landing-Page
+# Creativity-Landing-Page
 
 
 ## Technologies Used
